@@ -12,7 +12,9 @@ Examples:</br>
 ## Getting Started - the environment
 
 For single node, we'll use an A100 (p4dn on AWS) or V100 (p3* on AWS).  
-For multi-node, we'll use AWS ParallelCluster and Slurm.  
+For multi-node, we'll use AWS ParallelCluster and Slurm. 
+
+## Single Node (one machine, multi-gpu): 
 
 1 - Install this repo on your machine:
 ~~~
